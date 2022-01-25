@@ -1,7 +1,7 @@
 ### Hi! I am RICHA 👋
-
-
-### Here is what I do...
+<p align="center">
+ <img width="400" src="https://raw.githubusercontent.com/200Richa/200Richa/main/images/mardown-image.png">
+ </p>
 
 Here are some ideas to get you started:
 
